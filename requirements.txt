@@ -1,0 +1,4 @@
+transformers==4.47.0
+bert-score==0.3.13
+BLEURT @ git+https://github.com/google-research/bleurt@cebe7e6f996b40910cfaa520a63db47807e3bf5c
+blanc==0.3.4
