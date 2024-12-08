@@ -1,5 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch==1.12.1+cu113
+torchvision==0.13.1+cu113
+torchaudio==0.12.1
+pytorch_lightning==2.1
 transformers==4.35.2
 bert-score==0.3.13
-BLEURT @ git+https://github.com/google-research/bleurt@cebe7e6f996b40910cfaa520a63db47807e3bf5c
+# BLEURT @ git+https://github.com/google-research/bleurt@cebe7e6f996b40910cfaa520a63db47807e3bf5c
 blanc==0.3.4
 summac @ git+https://github.com/alejorba/summac.git@bug-fix-cnndm-xsum
+datasets==2.14.7
+scikit-learn==1.5.2
+openpyxl==3.1.5
+
+
